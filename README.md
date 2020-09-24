@@ -1,4 +1,4 @@
 # springboot_vue-Demo
-一个使用vue脚手架搭建vue项目配合springboot后端的Demo
-项目里user包下是vue的项目，vue-springboot包下是springboot部署了vue（dist包）的整体Demo
+一个使用vue脚手架搭建vue项目配合springboot后端的Demo。
+项目里user包下是vue的项目，vue-springboot包下是springboot部署了vue（dist包）的整体Demo。
 hello包是一个用来测试的vue项目，和整体Demo无关。
