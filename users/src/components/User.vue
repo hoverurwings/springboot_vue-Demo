@@ -15,6 +15,7 @@
         <td>{{user.age}}</td>
         <td>{{user.bir}}</td>
         <td><a href="javascript:;" @click="delRow(user.id)">删除</a><a :href="'#/user/edit?id='+user.id">修改</a></td>
+        <!--上一行href里的javascript:; 是阻止超链接默认的行为的写法-->
       </tr>
     </table>
 
